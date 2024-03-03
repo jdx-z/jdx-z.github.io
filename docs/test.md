@@ -8,4 +8,4 @@ katex: True
 
 Test Latex
 
-$x=15$
+$$x=15$$
