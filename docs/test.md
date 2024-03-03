@@ -2,7 +2,7 @@
 layout: page
 title: Test Page
 nameof: false
-permalink: /test/test1
+permalink: /test1
 katex: True
 ---
 
