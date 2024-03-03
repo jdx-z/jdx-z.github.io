@@ -1,5 +1,5 @@
-Test Home Page
+HOME
 
-## Test link
+## Things
 
-- [** Example**](/test)
+- [** First Thing **](/firsthing)
